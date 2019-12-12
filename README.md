@@ -1,2 +1,1 @@
-# hello-word
-new repository
+hello github!
